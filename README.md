@@ -119,8 +119,4 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedhamdhy&show_icons=true&locale=en&layout=compact" alt="mohamedhamdhy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedhamdhy&show_icons=true&locale=en" alt="mohamedhamdhy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedhamdhy&" alt="mohamedhamdhy" /></p>
