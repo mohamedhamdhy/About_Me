@@ -1,6 +1,6 @@
-<h1 align="center">💻 Mohamed Al Hamdhy — Engineering Smart Solutions, One Line at a Time</h1>
-<h3 align="center">Passionate Full-Stack Developer with Expertise in Scalable Web & Mobile Solutions</h3>
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2Yxa2MzajU4MnFkbmppd3hsc3VpdGNvaW9qd3p3ampnMHo2aDUyeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wGWFVvwJybDwTlnTSS/giphy.gif" alt="Coding Animation" width="100%" />
+<h1 align="center">💻 Hey there! I'm Mohamed Al Hamdhy </h1>
+<h2 align="center">Software Engineer with Full-Stack Development Expertise in Mobile & Web Applications</h2>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2Yxa2MzajU4MnFkbmppd3hsc3VpdGNvaW9qd3p3ampnMHo2aDUyeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wGWFVvwJybDwTlnTSS/giphy.gif" alt="Coding Animation" width="50%" />
 
 
 
