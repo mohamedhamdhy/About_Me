@@ -1,9 +1,10 @@
 <h1 align="center">💻 Hey there! I'm Mohamed Al Hamdhy </h1>
+
 <h2 align="center">Software Engineer with Full-Stack Development Expertise in Mobile & Web Applications</h2>
+
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2Yxa2MzajU4MnFkbmppd3hsc3VpdGNvaW9qd3p3ampnMHo2aDUyeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wGWFVvwJybDwTlnTSS/giphy.gif" alt="Coding Animation" width="100%" />
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedhamdhy&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedhamdhy" /> </p>
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamedhamdhy/" target="_blank">
@@ -14,11 +15,20 @@
 
 
 
-- 🔭 I’m currently working on **Salon Nathalia**
+<div style="text-align: center; max-width: 700px; margin: auto; font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
+  <p>🎓 Recently graduated and currently working as a Software Engineer in Sri Lanka.</p>
+  <p>🌍 Planning to move to Dubai for job opportunities and higher studies.</p>
+  <p>💼 Previously worked at Alpha Minds Pvt. Ltd as a Software Engineer for 7 months. Recently left for financial improvement.</p>
+  <p>💡 Skilled in Technology, Computing, Development, and Technical Support.</p>
+  <p>🖥️ Proficient in programming languages: C++, C#, Java, PHP, and Python, with specialization in PHP & Python.</p>
+  <p>⚙️ Knowledgeable in JavaScript & TypeScript, experienced with Node.js, Next.js, and Remix.js.</p>
+  <p>📱 Experienced in mobile app development using Python and Flutter.</p>
+  <p>🗄️ Comfortable working with databases including MySQL, PostgreSQL, MongoDB, and Firebase.</p>
+  <p>🛒 Successfully completed 3 eCommerce website projects and 2 mobile app projects.</p>
+  <p>🚀 A dedicated and reliable individual, available for freelance and company projects.</p>
+  <p>👨‍💻 Check out all my projects at <a href="https://codexhmd-projects.vercel.app/" target="_blank" style="color:#1a73e8; text-decoration:none;">codexhmd-projects.vercel.app</a></p>
+</div>
 
-- 🌱 I’m currently learning **Laravel, React.js, and Vue.js**
-
-- 👨‍💻 All of my projects are available at [https://codexhmd-projects.vercel.app/](https://codexhmd-projects.vercel.app/)
 
 - 💬 Ask me about **Programming Languages (C, C++, C#, Java, Python, PHP, R) | Frameworks (Laravel, React.js, Vue.js) | Web Development 🌐 | Mobile App Development 📱 | OS Setup, Troubleshooting & System Maintenance | Tools (Figma, Illustrator, Canva, Photoshop) | Microsoft Word & Excel | Internet Tunneling (AWS, DigitalOcean, TunnelVPN)**
 
