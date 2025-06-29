@@ -1,8 +1,6 @@
 <h1 align="center">💻 Hey there! I'm Mohamed Al Hamdhy </h1>
 <h2 align="center">Software Engineer with Full-Stack Development Expertise in Mobile & Web Applications</h2>
-<div style="text-align: center;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2Yxa2MzajU4MnFkbmppd3hsc3VpdGNvaW9qd3p3ampnMHo2aDUyeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wGWFVvwJybDwTlnTSS/giphy.gif" alt="Coding Animation" width="75%" />
-</div>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2Yxa2MzajU4MnFkbmppd3hsc3VpdGNvaW9qd3p3ampnMHo2aDUyeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wGWFVvwJybDwTlnTSS/giphy.gif" alt="Coding Animation" width="100%" />
 
 
 
