@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mohamed Al Hamdhy</h1>
+<h1 align="center">🚀 Hey there! I'm Mohamed Al Hamdhy – Building the Future in Code</h1>
 <h3 align="center">Passionate Full-Stack Developer with Expertise in Scalable Web & Mobile Solutions</h3>
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Animated Gif from Giphy" width="100%" />
-
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzF3NHV4OHZ3M2ZteTlwMTJjbTExbzJtYmM0bWJpOWRwbmN5cW5qbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VpxpIm1coCLZzvgCtB/giphy.gif" alt="Coding Animation" width="100%" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedhamdhy&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedhamdhy" /> </p>
 
