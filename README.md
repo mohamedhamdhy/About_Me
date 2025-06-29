@@ -15,7 +15,7 @@
 
 
 
-<div style="text-align: center; max-width: 500px; margin: auto; font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
+<div style="max-width: 500px; margin-left: auto; margin-right: auto; font-family: Arial, sans-serif; line-height: 1.6; color: #333; text-align: center;">
   <p>🎓 Recently graduated and currently working as a Software Engineer in Sri Lanka.</p>
   <p>🌍 Planning to move to Dubai for job opportunities and higher studies.</p>
   <p>💼 Previously worked at Alpha Minds Pvt. Ltd as a Software Engineer for 7 months. Recently left for financial improvement.</p>
@@ -28,6 +28,7 @@
   <p>🚀 A dedicated and reliable individual, available for freelance and company projects.</p>
   <p>👨‍💻 Check out all my projects at <a href="https://codexhmd-projects.vercel.app/" target="_blank" style="color:#1a73e8; text-decoration:none;">codexhmd-projects.vercel.app</a></p>
 </div>
+
 
 
 - 💬 Ask me about **Programming Languages (C, C++, C#, Java, Python, PHP, R) | Frameworks (Laravel, React.js, Vue.js) | Web Development 🌐 | Mobile App Development 📱 | OS Setup, Troubleshooting & System Maintenance | Tools (Figma, Illustrator, Canva, Photoshop) | Microsoft Word & Excel | Internet Tunneling (AWS, DigitalOcean, TunnelVPN)**
