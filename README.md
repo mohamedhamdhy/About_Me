@@ -1,6 +1,7 @@
 <h1 align="center">💻 Mohamed Al Hamdhy — Engineering Smart Solutions, One Line at a Time</h1>
 <h3 align="center">Passionate Full-Stack Developer with Expertise in Scalable Web & Mobile Solutions</h3>
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHdoMmxkemZ1cTY2amVhZnNtY2YxdXBqaHR5M3JpZ3VsdXAydWl0MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LD2ZJ0pdNmCxFikNQ5/giphy.gif" alt="Coding Animation" width="100%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2Yxa2MzajU4MnFkbmppd3hsc3VpdGNvaW9qd3p3ampnMHo2aDUyeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wGWFVvwJybDwTlnTSS/giphy.gif" alt="Coding Animation" width="100%" />
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedhamdhy&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedhamdhy" /> </p>
