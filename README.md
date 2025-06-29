@@ -2,9 +2,7 @@
 <h2 align="center">Software Engineer with Full-Stack Development Expertise in Mobile & Web Applications</h2>
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2Yxa2MzajU4MnFkbmppd3hsc3VpdGNvaW9qd3p3ampnMHo2aDUyeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wGWFVvwJybDwTlnTSS/giphy.gif" alt="Coding Animation" width="100%" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamedhamdhy&label=Profile%20views&color=transparent&label_color=transparent&style=flat" alt="mohamedhamdhy" />
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedhamdhy&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedhamdhy" /> </p>
 
 
 <p align="center">
