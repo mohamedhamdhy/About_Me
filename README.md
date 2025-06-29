@@ -2,13 +2,15 @@
 <h2 align="center">Software Engineer with Full-Stack Development Expertise in Mobile & Web Applications</h2>
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2Yxa2MzajU4MnFkbmppd3hsc3VpdGNvaW9qd3p3ampnMHo2aDUyeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wGWFVvwJybDwTlnTSS/giphy.gif" alt="Coding Animation" width="100%" />
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedhamdhy&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedhamdhy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedhamdhy" alt="mohamedhamdhy" /></a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamedhamdhy/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Profile" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/al_hamdhy_nawas" target="blank"><img src="https://img.shields.io/twitter/follow/al_hamdhy_nawas?logo=twitter&style=for-the-badge" alt="al_hamdhy_nawas" /></a> </p>
+
 
 - 🔭 I’m currently working on **Salon Nathalia**
 
