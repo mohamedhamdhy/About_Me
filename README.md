@@ -15,7 +15,7 @@
 
 
 
-<div style="text-align: center; max-width: 700px; margin: auto; font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
+<div style="text-align: center; max-width: 500px; margin: auto; font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
   <p>🎓 Recently graduated and currently working as a Software Engineer in Sri Lanka.</p>
   <p>🌍 Planning to move to Dubai for job opportunities and higher studies.</p>
   <p>💼 Previously worked at Alpha Minds Pvt. Ltd as a Software Engineer for 7 months. Recently left for financial improvement.</p>
