@@ -55,7 +55,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amila-t-kumarasekara&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mohamedhamdhy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 ### ✍️ Random Dev Quote
