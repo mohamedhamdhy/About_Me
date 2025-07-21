@@ -55,7 +55,7 @@
 
 
 ## 🏆 GitHub Trophies
-[![Trophy](https://github-profile-trophy.vercel.app/?username=mohamedhamdhy&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### ✍️ Random Dev Quote
