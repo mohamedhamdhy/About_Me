@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on Voyage Hub project developing with the microservices architecture.<br><br>🌱 I’m currently contributing to open source linkedin-skill-assessments-quizzes project.<br><br>🌱 I’m currently working on elastic-carousel npm package for releasing stable version of @sag-v1/react-elastic-carousel.<br><br>💬 Ask me about anything related with MERN Stack<br><br>📫 How to reach me mohamedalhamdhy@gmail.com
+🚀 I’m building something exciting at Minds High Digital, my own tech startup focused on innovative digital solutions.<br><br>
+📱 Currently crafting a feature-rich all-in-one Buy & Sell mobile app, aimed at transforming the local marketplace experience<br><br>
+🧠 Continuously sharpening my skills in PHP (Laravel), Python (FastAPI), JavaScript (Next.js, Remix) and TypeScript to stay ahead of the curve<br><br>
+💡 Always open to connect. Ask me anything about PHP, Python or MERN stack development<br><br>
+📫 How to reach me mohamedalhamdhy@gmail.com
 
 
 ## 🌐 Socials:
