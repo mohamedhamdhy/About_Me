@@ -50,9 +50,10 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/api?username=amila-t-kumarasekara&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=amila-t-kumarasekara&theme=react&hide_border=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/api/top-langs/?username=amila-t-kumarasekara&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedhamdhy&theme=react&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhamdhy&theme=react&layout=compact)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=mohamedhamdhy&theme=react)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=amila-t-kumarasekara&theme=radical&no-frame=false&no-bg=true&margin-w=4)
