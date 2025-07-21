@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I’m building something exciting at Minds High Digital, my own tech startup focused on innovative digital solutions.<br><br>
+🚀 I’m building something exciting at High Minds Digital, my own tech startup focused on innovative digital solutions.<br><br>
 📱 Currently crafting a feature-rich all-in-one Buy & Sell mobile app, aimed at transforming the local marketplace experience.<br><br>
 🧠 Continuously sharpening my skills in PHP (Laravel), Python (FastAPI), JavaScript (Next.js, Remix) and TypeScript to stay ahead of the curve.<br><br>
 💡 Always open to connect. Ask me anything about PHP, Python or MERN stack development.<br><br>
