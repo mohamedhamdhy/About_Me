@@ -7,12 +7,8 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mhdalhamdhy)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mhd_al_hamdhy/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedhamdhy/)
-[![Threads](https://img.shields.io/badge/Threads-000000?logo=threads&logoColor=white)](https://www.threads.com/@mhd_al_hamdhy)
 [![Linktree](https://img.shields.io/badge/Linktree-43E55C?logo=linktree&logoColor=white)](https://linktr.ee/mohamedalhamdhy)
-[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/mohamedalhamdhy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedhamdhy/)
 [![Website](https://img.shields.io/badge/Website-000000?logo=vercel&logoColor=white)](https://mohamedalhamdhy.vercel.app/)
 
 
