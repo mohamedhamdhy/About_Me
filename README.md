@@ -51,10 +51,8 @@
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedhamdhy&theme=react&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhamdhy&theme=react&layout=compact&cache_seconds=60)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohamedhamdhy&theme=react&hide_border=false)
 
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=amila-t-kumarasekara&theme=react&hide_border=false)<br/>
 
 
 
