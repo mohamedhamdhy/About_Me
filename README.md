@@ -55,8 +55,8 @@
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/api?username=amila-t-kumarasekara&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=amila-t-kumarasekara&theme=react&hide_border=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/api/top-langs/?username=amila-t-kumarasekara&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 
 # 🏆 GitHub Trophies:
