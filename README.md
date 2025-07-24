@@ -2,7 +2,6 @@
 
 🚀 I’m currently building something exciting at **High Minds Digital** — my own tech startup focused on delivering innovative and scalable digital solutions.
 
----
 
 ## 👨‍💻 Currently Building
 
@@ -15,7 +14,6 @@ I'm actively working on several impactful projects aimed at solving real-world p
 
 ✨ Stay tuned for updates, live demos, and open-source contributions!
 
----
 
 ## 🧠 Always Learning
 
@@ -27,14 +25,12 @@ Continuously sharpening my skills across multiple domains including:
 
 I believe in learning by building — and pushing the boundaries with every new project.
 
----
 
 ## 💬 Let's Connect
 
 💡 Always open to collaborate or chat — ask me anything about **PHP**, **Python**, or **MERN stack** development.  
 📫 Reach me at: **mohamedalhamdhy@gmail.com**
 
----
 
 ## 🌐 Socials:
 [![Linktree](https://img.shields.io/badge/Linktree-43E55C?logo=linktree&logoColor=white)](https://linktr.ee/mohamedalhamdhy)
