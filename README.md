@@ -1,19 +1,40 @@
-# 💫 About Me:
-🚀 I’m building something exciting at High Minds Digital, my own tech startup focused on innovative digital solutions.<br><br>
+# 💫 About Me
+
+🚀 I’m currently building something exciting at **High Minds Digital** — my own tech startup focused on delivering innovative and scalable digital solutions.
+
+---
 
 ## 👨‍💻 Currently Building
 
-### I'm actively working on multiple exciting projects aimed at solving real-world problems with scalable tech:
+I'm actively working on several impactful projects aimed at solving real-world problems:
+
 - 📱 **All-in-One Buy & Sell Mobile App** – A feature-rich platform transforming the local marketplace experience  
-- 💼 **Job Market Web Application** – Connecting employers and job seekers with a seamless interface  
-- 🛒 **E-commerce Website** – A modern, user-friendly shopping experience built for performance  
-- 📷 **QR Scanner Mobile Application** – Lightweight, fast, and built with Flutter for cross-platform support
-Stay tuned for updates and live demos!<br><br>
+- 💼 **Job Market Web Application** – Seamlessly connecting employers and job seekers  
+- 🛒 **E-commerce Website** – A modern, fast, and scalable online shopping experience  
+- 📷 **QR Scanner Mobile Application** – Lightweight and cross-platform, built with Flutter
 
-🧠 Continuously sharpening my skills across multiple domains including programming languages, frameworks, databases, servers, and the evolving world of AI & ML (with a focus on LLMs) to stay ahead of the curve.<br><br>
-💡 Always open to connect. Ask me anything about PHP, Python or MERN stack development.<br><br>
-📫 How to reach me mohamedalhamdhy@gmail.com
+✨ Stay tuned for updates, live demos, and open-source contributions!
 
+---
+
+## 🧠 Always Learning
+
+Continuously sharpening my skills across multiple domains including:
+
+- Programming Languages & Frameworks  
+- Databases & Server Infrastructure  
+- AI & ML with a focus on **LLMs (Large Language Models)**
+
+I believe in learning by building — and pushing the boundaries with every new project.
+
+---
+
+## 💬 Let's Connect
+
+💡 Always open to collaborate or chat — ask me anything about **PHP**, **Python**, or **MERN stack** development.  
+📫 Reach me at: **mohamedalhamdhy@gmail.com**
+
+---
 
 ## 🌐 Socials:
 [![Linktree](https://img.shields.io/badge/Linktree-43E55C?logo=linktree&logoColor=white)](https://linktr.ee/mohamedalhamdhy)
