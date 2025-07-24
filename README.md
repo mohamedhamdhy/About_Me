@@ -1,7 +1,16 @@
 # 💫 About Me:
 🚀 I’m building something exciting at High Minds Digital, my own tech startup focused on innovative digital solutions.<br><br>
-📱 Currently crafting a feature-rich all-in-one Buy & Sell mobile app, aimed at transforming the local marketplace experience.<br><br>
-🧠 Continuously sharpening my skills in PHP (Laravel), Python (FastAPI), JavaScript (Next.js, Remix) and TypeScript to stay ahead of the curve.<br><br>
+
+## 👨‍💻 Currently Building
+
+### I'm actively working on multiple exciting projects aimed at solving real-world problems with scalable tech:
+- 📱 **All-in-One Buy & Sell Mobile App** – A feature-rich platform transforming the local marketplace experience  
+- 💼 **Job Market Web Application** – Connecting employers and job seekers with a seamless interface  
+- 🛒 **E-commerce Website** – A modern, user-friendly shopping experience built for performance  
+- 📷 **QR Scanner Mobile Application** – Lightweight, fast, and built with Flutter for cross-platform support
+Stay tuned for updates and live demos!<br><br>
+
+🧠 Continuously sharpening my skills across multiple domains including programming languages, frameworks, databases, servers, and the evolving world of AI & ML (with a focus on LLMs) to stay ahead of the curve.<br><br>
 💡 Always open to connect. Ask me anything about PHP, Python or MERN stack development.<br><br>
 📫 How to reach me mohamedalhamdhy@gmail.com
 
