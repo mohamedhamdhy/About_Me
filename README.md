@@ -23,7 +23,7 @@ Continuously sharpening my skills across multiple domains including:
 - Databases & Server Infrastructure  
 - AI & ML with a focus on **LLMs (Large Language Models)**
 
-I believe in learning by building — and pushing the boundaries with every new project.
+I believe in learning by building and pushing the boundaries with every new project.
 
 
 ## 💬 Let's Connect
