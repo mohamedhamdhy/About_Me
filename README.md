@@ -76,7 +76,8 @@ I believe in learning by building and pushing the boundaries with every new proj
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedhamdhy&theme=react&show_icons=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedhamdhy&theme=react&show_icons=true&count_private=true)](https://your-deployment.vercel.app/api?username=mohamedhamdhy&count_private=true
+)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohamedhamdhy&theme=react&hide_border=false)
 
 
